@@ -1,5 +1,5 @@
-`Singleton`_
-============
+`Singleton`__
+=============
 
 **THIS IS CONSIDERED TO BE AN ANTI-PATTERN! FOR BETTER TESTABILITY AND
 MAINTAINABILITY USE DEPENDENCY INJECTION!**
@@ -29,7 +29,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 Singleton.php
 
@@ -47,4 +47,4 @@ Tests/SingletonTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Creational/Singleton
-.. _`Singleton`: http://en.wikipedia.org/wiki/Singleton_pattern
+.. __: http://en.wikipedia.org/wiki/Singleton_pattern

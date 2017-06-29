@@ -1,5 +1,5 @@
-`Strategy`_
-===========
+`Strategy`__
+============
 
 Terminology:
 ------------
@@ -32,7 +32,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 ObjectCollection.php
 
@@ -68,4 +68,4 @@ Tests/StrategyTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Behavioral/Strategy
-.. _`Strategy`: http://en.wikipedia.org/wiki/Strategy_pattern
+.. __: http://en.wikipedia.org/wiki/Strategy_pattern

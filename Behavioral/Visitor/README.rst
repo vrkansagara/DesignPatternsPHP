@@ -1,5 +1,5 @@
-`Visitor`_
-==========
+`Visitor`__
+===========
 
 Purpose
 -------
@@ -23,7 +23,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 RoleVisitorInterface.php
 
@@ -31,9 +31,9 @@ RoleVisitorInterface.php
    :language: php
    :linenos:
 
-RolePrintVisitor.php
+RoleVisitor.php
 
-.. literalinclude:: RolePrintVisitor.php
+.. literalinclude:: RoleVisitor.php
    :language: php
    :linenos:
 
@@ -65,4 +65,4 @@ Tests/VisitorTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Behavioral/Visitor
-.. _`Visitor`: http://en.wikipedia.org/wiki/Visitor_pattern
+.. __: http://en.wikipedia.org/wiki/Visitor_pattern

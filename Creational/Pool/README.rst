@@ -1,5 +1,8 @@
-`Pool`_
-=======
+`Pool`__
+========
+
+Purpose
+-------
 
 The **object pool pattern** is a software creational design pattern that
 uses a set of initialized objects kept ready to use – a "pool" – rather
@@ -31,23 +34,17 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
-Pool.php
+WorkerPool.php
 
-.. literalinclude:: Pool.php
+.. literalinclude:: WorkerPool.php
    :language: php
    :linenos:
 
-Processor.php
+StringReverseWorker.php
 
-.. literalinclude:: Processor.php
-   :language: php
-   :linenos:
-
-Worker.php
-
-.. literalinclude:: Worker.php
+.. literalinclude:: StringReverseWorker.php
    :language: php
    :linenos:
 
@@ -60,11 +57,5 @@ Tests/PoolTest.php
    :language: php
    :linenos:
 
-Tests/TestWorker.php
-
-.. literalinclude:: Tests/TestWorker.php
-   :language: php
-   :linenos:
-
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Creational/Pool
-.. _`Pool`: http://en.wikipedia.org/wiki/Object_pool_pattern
+.. __: http://en.wikipedia.org/wiki/Object_pool_pattern

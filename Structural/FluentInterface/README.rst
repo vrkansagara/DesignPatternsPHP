@@ -1,5 +1,5 @@
-`Fluent Interface`_
-===================
+`Fluent Interface`__
+====================
 
 Purpose
 -------
@@ -25,7 +25,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 Sql.php
 
@@ -43,5 +43,4 @@ Tests/FluentInterfaceTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Structural/FluentInterface
-
-.. _`Fluent Interface`: http://en.wikipedia.org/wiki/Fluent_interface
+.. __: http://en.wikipedia.org/wiki/Fluent_interface

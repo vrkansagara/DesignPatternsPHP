@@ -1,12 +1,12 @@
-`Adapter / Wrapper`_
-====================
+`Adapter / Wrapper`__
+=====================
 
 Purpose
 -------
 
 To translate one interface for a class into a compatible interface. An
 adapter allows classes to work together that normally could not because
-of incompatible interfaces by providing it's interface to clients while
+of incompatible interfaces by providing its interface to clients while
 using the original interface.
 
 Examples
@@ -26,11 +26,11 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
-PaperBookInterface.php
+BookInterface.php
 
-.. literalinclude:: PaperBookInterface.php
+.. literalinclude:: BookInterface.php
    :language: php
    :linenos:
 
@@ -68,4 +68,4 @@ Tests/AdapterTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Structural/Adapter
-.. _`Adapter / Wrapper`: http://en.wikipedia.org/wiki/Adapter_pattern
+.. __: http://en.wikipedia.org/wiki/Adapter_pattern

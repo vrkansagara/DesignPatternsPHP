@@ -1,5 +1,5 @@
-`Null Object`_
-==============
+`Null Object`__
+===============
 
 Purpose
 -------
@@ -36,7 +36,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 Service.php
 
@@ -72,4 +72,4 @@ Tests/LoggerTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Behavioral/NullObject
-.. _`Null Object`: http://en.wikipedia.org/wiki/Null_Object_pattern
+.. __: http://en.wikipedia.org/wiki/Null_Object_pattern

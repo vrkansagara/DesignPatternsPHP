@@ -1,11 +1,10 @@
-`Iterator`_
-===========
+`Iterator`__
+============
 
 Purpose
 -------
 
-To make an object iterable and to make it appear like a collection of
-objects.
+To make an object iterable and to make it appear like a collection of objects.
 
 Examples
 --------
@@ -31,7 +30,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 Book.php
 
@@ -45,18 +44,6 @@ BookList.php
    :language: php
    :linenos:
 
-BookListIterator.php
-
-.. literalinclude:: BookListIterator.php
-   :language: php
-   :linenos:
-
-BookListReverseIterator.php
-
-.. literalinclude:: BookListReverseIterator.php
-   :language: php
-   :linenos:
-
 Test
 ----
 
@@ -67,4 +54,4 @@ Tests/IteratorTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Behavioral/Iterator
-.. _`Iterator`: http://en.wikipedia.org/wiki/Iterator_pattern
+.. __: http://en.wikipedia.org/wiki/Iterator_pattern

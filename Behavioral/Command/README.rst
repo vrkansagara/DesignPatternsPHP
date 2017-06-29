@@ -1,5 +1,5 @@
-`Command`_
-==========
+`Command`__
+===========
 
 Purpose
 -------
@@ -38,7 +38,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 CommandInterface.php
 
@@ -74,4 +74,4 @@ Tests/CommandTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Behavioral/Command
-.. _`Command`: http://en.wikipedia.org/wiki/Command_pattern
+.. __: http://en.wikipedia.org/wiki/Command_pattern

@@ -1,5 +1,5 @@
-`Template Method`_
-==================
+`Template Method`__
+===================
 
 Purpose
 -------
@@ -31,7 +31,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 Journey.php
 
@@ -61,4 +61,4 @@ Tests/JourneyTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Behavioral/TemplateMethod
-.. _`Template Method`: http://en.wikipedia.org/wiki/Template_method_pattern
+.. __: http://en.wikipedia.org/wiki/Template_method_pattern

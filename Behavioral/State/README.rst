@@ -1,5 +1,5 @@
-`State`_
-========
+`State`__
+=========
 
 Purpose
 -------
@@ -18,23 +18,17 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
-OrderController.php
+ContextOrder.php
 
-.. literalinclude:: OrderController.php
+.. literalinclude:: ContextOrder.php
    :language: php
    :linenos:
 
-OrderFactory.php
+StateOrder.php
 
-.. literalinclude:: OrderFactory.php
-   :language: php
-   :linenos:
-
-OrderInterface.php
-
-.. literalinclude:: OrderInterface.php
+.. literalinclude:: StateOrder.php
    :language: php
    :linenos:
 
@@ -54,4 +48,4 @@ Test
 ----
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Behavioral/State
-.. _`State`: http://en.wikipedia.org/wiki/State_pattern
+.. __: http://en.wikipedia.org/wiki/State_pattern

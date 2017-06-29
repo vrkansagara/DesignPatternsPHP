@@ -1,5 +1,5 @@
-`Composite`_
-============
+`Composite`__
+=============
 
 Purpose
 -------
@@ -26,11 +26,11 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
-FormElement.php
+RenderableInterface.php
 
-.. literalinclude:: FormElement.php
+.. literalinclude:: RenderableInterface.php
    :language: php
    :linenos:
 
@@ -62,4 +62,4 @@ Tests/CompositeTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Structural/Composite
-.. _`Composite`: http://en.wikipedia.org/wiki/Composite_pattern
+.. __: http://en.wikipedia.org/wiki/Composite_pattern

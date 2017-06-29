@@ -1,5 +1,5 @@
-`Facade`_
-=========
+`Facade`__
+==========
 
 Purpose
 -------
@@ -33,7 +33,7 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
 Facade.php
 
@@ -63,4 +63,4 @@ Tests/FacadeTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Structural/Facade
-.. _`Facade`: http://en.wikipedia.org/wiki/Facade_pattern
+.. __: http://en.wikipedia.org/wiki/Facade_pattern

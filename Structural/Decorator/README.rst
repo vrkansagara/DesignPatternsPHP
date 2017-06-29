@@ -1,5 +1,5 @@
-`Decorator`_
-============
+`Decorator`__
+=============
 
 Purpose
 -------
@@ -23,11 +23,11 @@ UML Diagram
 Code
 ----
 
-You can also find these code on `GitHub`_
+You can also find this code on `GitHub`_
 
-RendererInterface.php
+RenderableInterface.php
 
-.. literalinclude:: RendererInterface.php
+.. literalinclude:: RenderableInterface.php
    :language: php
    :linenos:
 
@@ -37,21 +37,21 @@ Webservice.php
    :language: php
    :linenos:
 
-Decorator.php
+RendererDecorator.php
 
-.. literalinclude:: Decorator.php
+.. literalinclude:: RendererDecorator.php
    :language: php
    :linenos:
 
-RenderInXml.php
+XmlRenderer.php
 
-.. literalinclude:: RenderInXml.php
+.. literalinclude:: XmlRenderer.php
    :language: php
    :linenos:
 
-RenderInJson.php
+JsonRenderer.php
 
-.. literalinclude:: RenderInJson.php
+.. literalinclude:: JsonRenderer.php
    :language: php
    :linenos:
 
@@ -65,4 +65,4 @@ Tests/DecoratorTest.php
    :linenos:
 
 .. _`GitHub`: https://github.com/domnikl/DesignPatternsPHP/tree/master/Structural/Decorator
-.. _`Decorator`: http://en.wikipedia.org/wiki/Decorator_pattern
+.. __: http://en.wikipedia.org/wiki/Decorator_pattern
